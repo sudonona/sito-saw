@@ -14,8 +14,8 @@
     <a href="javascript:void(0)" class="dropbtn">Malattie</a>
     <div class="dropdown-content">
       <a href="#">Diabete</a>
-      <a href="#">Cancro</a>
-      <a href="#">Fumo</a>
+      <a href="#">Miopia</a>
+      <a href="fumo.php">Fumo</a>
     </div>
   </li>
   <li><a href="login.php"> Accedi </a></li>
